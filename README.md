@@ -1,2 +1,1 @@
-This is a new repo
-This repository contains various scripts
+This repo contains various scripts
