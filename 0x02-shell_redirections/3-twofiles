@@ -1,2 +1,2 @@
 #!/bin/bash
-cat passwdfile hostfiles   
+cat /etc/passwd /etc/hosts
